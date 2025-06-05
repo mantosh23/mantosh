@@ -36,12 +36,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mantoshkumar&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mantoshkumar&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mantosh23&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mantosh23&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mantoshkumar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mantosh23&theme=tokyonight" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mantoshkumar&theme=darkhub&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mantosh23&theme=darkhub&no-frame=true&column=7&margin-w=10" />
 </p>
 
 ---
