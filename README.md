@@ -1,10 +1,5 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/mantoshkumar/mantoshkumar/assets/your-banner.png" alt="Mantosh Kumar Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Mantosh Kumar</h1>
-<h3 align="center">Full Stack Developer | B.Tech CSE (AIML) | Actor & Guitarist 🎭🎸</h3>
+<h3 align="center">Full Stack Developer | B.Tech CSE (AIML)</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+React+Learner;Java+%7C+DSA+Enthusiast;Creative+Mind+with+a+Passion+for+Code+%26+Art" />
@@ -17,7 +12,7 @@
 - 🎓 2nd Year B.Tech CSE (AIML) student at **SRM University, KTR**
 - 👨‍💻 Currently learning **React.js** and building full-stack projects
 - 📚 Practicing **Data Structures & Algorithms** in Java
-- 🎭 Actor & 🎸 Guitarist – love to blend art with tech!
+- 🎭 Love Acting & 🎸 playing Guitar – love to blend art with tech!
 - 💡 Exploring opportunities to collaborate on meaningful open source work
 
 ---
